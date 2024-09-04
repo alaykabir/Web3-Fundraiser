@@ -18,4 +18,3 @@ Welcome to the **Decentralized Crowdfunding Platform** project! This application
 - **Smart Contracts:** Solidity
 - **Wallet:** MetaMask
 - **Backend:** Node.js, Express
-- **Database:** (If any database is used)
